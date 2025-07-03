@@ -1,0 +1,9 @@
+.tank-container {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.water-animation {
+    transition: height 0.8s ease, y 0.8s ease;
+}
